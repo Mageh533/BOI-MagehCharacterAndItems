@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Mageh's Character and Items</name>
+    <directory>magehcharacteranditems</directory>
+    <id>2495648459</id>
+    <description>This mod is mostly an inside joke for me and my friends, its also the first mode i've done for Isaac and i am using it to learn a bit of Isaac modding in general. it adds a new character Mageh (me!) and three items, it also includes a tainted variant.
+
+The normal character has the following:
+
+Invest - An active item that charges up depending on how much money you currently have, having 12 coins allows you to use it and will remove the 12 coins, when used it has a 50% chance of dropping nothing, 30% of dropping a normal pickup and a 20% chance of dropping an item from the current pool.
+
+Money Pot - Awards 2 random coins when clearing a room without being hit.
+
+The Tainted Variant
+
+Debt - Allows you to claim all items in a shop or devil room for free but adds a debt that can be seen in the bottom right side of the HUD. When having a debt it will remove any coins you currently have until you clear your debt, if you have too much debt and no money to pay it off Greed Gapers will come after you, if you keep building it up more will come and eventually you may even bring Ultra greed himself to collect your debt... However if you managed to kill him your debt will be cleared.
+
+The tainted variant will function like tainted keeper so items from the treasure and devil deals will cost money.</description>
+    <version>1.17</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Player Characters"/>
+</metadata>

@@ -1,0 +1,15 @@
+<players root="gfx/characters/costumes/" 
+         portraitroot="gfx/ui/stage/" 
+         nameimageroot="gfx/ui/boss/">
+	<player name="Mageh" skin="character_mageh.png" hp="4" coins="5"
+          nameimage="playername_mageh.png" 
+          portrait="playerportrait_mageh.png" skinColor="-1"
+		  birthright="More investments for less money!" >
+    </player>
+    <player name ="Mageh" skin="character_mageh_b.png" hp="6"
+         nameimage="playername_mageh.png"
+         portrait="playerportrait_mageh_b.png" skinColor="-1"
+         birthright="Half your debt is gones"
+         bSkinParent="Mageh" >
+    </player>
+</players>

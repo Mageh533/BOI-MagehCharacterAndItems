@@ -1,0 +1,5 @@
+<costumes anm2root="gfx/">
+    <costume id="1" anm2path="characters/moneyPot.anm2" type="passive" />
+    <costume id="2" anm2path="characters/magehHair.anm2" type="none" />
+    <costume id="4" anm2path="characters/magehBHair.anm2" type="none" />
+</costumes>

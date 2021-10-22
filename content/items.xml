@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive id="1" name="Money Pot" description="Take good care of it and get rewarded" gfx="passive_moneypot.png" />
+    <active id="3" name="Invest" description="Time for some investments!" gfx="active_invest.png" maxcharges="12" initcharge="0" chargetype="special" />
+    <active id="5" name="Debt" description="Dont build it up too much..." gfx="active_debt.png" maxcharges="110" cooldown="30" chargetype="timed" />
+</items>

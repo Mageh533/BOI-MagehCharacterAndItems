@@ -1,0 +1,9 @@
+<ItemPools>
+    <Pool Name="shop">
+        <Item Name="Money Pot" Weight="1" DecreaseBy="0.5" Remove="0.1" />
+        <Item Name="Invest" Weight="1" DecreaseBy="0.5" Remove="0.1" />
+    </Pool>
+    <Pool Name="devil">
+        <Item Name="Debt" Weight="1" DecreaseBy="0.5" Remove="0.1" />
+    </Pool>
+</ItemPools>
